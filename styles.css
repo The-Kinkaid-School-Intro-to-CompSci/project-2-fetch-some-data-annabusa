@@ -1,6 +1,6 @@
 
 body{
-  background-color: rgba(221, 226, 225, 0.507);
+  background-color: rgba(120, 187, 173, 0.507);
   font-family: serif;
   padding: 300px;
 }
@@ -13,7 +13,7 @@ img {
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 60px;
-  max-height: 300px;
+  max-height: 500px;
 }
 
 span {
